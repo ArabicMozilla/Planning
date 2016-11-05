@@ -7,5 +7,5 @@ Issues created here should be Specific, Measurable, Achievable, Relevant and Tim
 * **Specific**: One concrete and clear action to be done.
 * **Measurable**: With clear metrics to know if was done successfuly or not.
 * **Achievable**: Realistic task, not too big.
-* **Relevant**: Linked to one of the working themes (labels)
+* **Relevant**: Linked to one of the working themes ([labels](https://github.com/ArabicMozilla/Planning/labels))
 * **Time-bound**: Tied to a specific period of time, ideally short term.

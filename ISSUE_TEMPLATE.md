@@ -11,7 +11,7 @@ Detailed description on what should happen to consider this a success.
 * **A**ccountable: *(Mandatory) The person who is accountable of the overall theme, usually theme owner*
 * **S**upporter: *Anyone helping this task to be completed by taking actions*
 * **C**onsulted: *People that needs to be pinged for feedback/review, usually the accountable*
-* **I**nformed: *People that needs to be pinged to infor about this task progress*
+* **I**nformed: *People that needs to be pinged to be informed about this task progress*
 
 ## Item list:
 - [ ] Individual item that should happen (R: @username)

@@ -7,18 +7,18 @@ Detailed description on what should happen to consider this a success.
 
 ## Roles
 
-* Responsible:
-* Accountable:
-* Supporter:
-* Consulted:
-* Informed:
+* **R**esponsible: *(Mandatory) The person who will lead this task (set also this person as task assignee)*
+* **A**ccountable: *(Mandatory) The person who is accountable of the overall theme, usually theme owner*
+* **S**upporter: *Anyone helping this task to be completed by taking actions*
+* **C**onsulted: *People that needs to be pinged for feedback/review, usually the accountable*
+* **I**nformed: *People that needs to be pinged to infor about this task progress*
 
 ## Item list:
-- [ ] Individual item that should happen (R:)
-- [ ] Individual item that should happen (R:)
-- [ ] Individual item that should happen (R:)
-- [ ] Individual item that should happen (R:)
+- [ ] Individual item that should happen (R: @username)
+- [ ] Individual item that should happen (R: @username)
+- [ ] Individual item that should happen (R: @username)
+- [ ] Individual item that should happen (R: @username)
 
 ## Related Issues
 
-* [Reference meta issues and past issues] #
+* [Reference meta issues and past issues](/thelink)
